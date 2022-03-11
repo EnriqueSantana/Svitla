@@ -13,8 +13,5 @@ public class Main {
         myMethods.write(Locators.passwordField,"guners");
         myMethods.clickByName(Locators.loginButton);
         Thread.sleep(3000);
-        myMethods.click(Locators.menuButton);
-        myMethods.click(Locators.logout);
-        myMethods.closeBrowser();
     }
 }

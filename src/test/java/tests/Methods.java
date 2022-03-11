@@ -25,7 +25,4 @@ public class Methods{
     public void clickByName (String locator){
         driver.findElement(By.name(locator)).click();
     }
-    public void closeBrowser(){
-        driver.close();
-    }
 }

@@ -7,6 +7,4 @@ public class Locators {
     public static String usernameField= "//*[@id=\"email\"]";
     public static String passwordField= "//*[@id=\"pass\"]";
     public static String loginButton= "login";
-    public static String menuButton="//div[@aria-label='Cuenta']//*[name()='svg']";
-    public static String logout="//span[normalize-space()='Cerrar sesión']";
 }
