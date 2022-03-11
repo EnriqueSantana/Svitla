@@ -18,5 +18,7 @@ public class Main {
         myMethods.closeBrowser();
     }
     System.out.println("NOOO");
+    System.out.println("NOOO");
+    System.out.println("NOOO");
 
 }
