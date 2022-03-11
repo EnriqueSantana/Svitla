@@ -17,4 +17,6 @@ public class Main {
         myMethods.click(Locators.logout);
         myMethods.closeBrowser();
     }
+    System.out.println("NOOO");
+
 }
